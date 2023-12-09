@@ -3,7 +3,7 @@
  * https://orm.drizzle.team/docs/sql-schema-declaration/
  *
  * PG Schema for Auth by Lucia:
- * https://lucia-auth.com/database-adapters/pg/
+ * https://lucia-auth.com/database-adapters/postgres/
  * https://lucia-auth.com/guidebook/drizzle-orm/
  */
 

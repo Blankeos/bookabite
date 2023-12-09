@@ -23,7 +23,6 @@
 		"@playwright/test": "^1.28.1",
 		"@sveltejs/adapter-auto": "^2.0.0",
 		"@sveltejs/kit": "^1.27.4",
-		"@types/pg": "^8.10.9",
 		"@typescript-eslint/eslint-plugin": "^6.0.0",
 		"@typescript-eslint/parser": "^6.0.0",
 		"autoprefixer": "^10.4.16",
@@ -52,7 +51,6 @@
 		"dayjs": "^1.11.10",
 		"drizzle-orm": "^0.29.1",
 		"lucia": "^2.7.4",
-		"pg": "^8.11.3",
 		"postgres": "^3.4.3",
 		"tailwind-merge": "^2.1.0",
 		"tailwind-variants": "^0.1.18"
