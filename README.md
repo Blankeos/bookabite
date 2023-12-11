@@ -23,7 +23,7 @@ Before proceeding, please install the following software:
 cp .env.example .env
 
 # 2. Run/Build Postgres in Docker.
-pnpm db:stop
+pnpm db:start
 
 # - To stop:
 pnpm db:stop
